@@ -37,7 +37,8 @@ horas = segundos / 3600
 
 print(f"{segundos} segundos serían {horas} horas")
 
-# 6. Crear un programa que pida al usuario un número e imprima por pantalla la tabla de multiplicar de dicho número.  
+# 6. Crear un programa que pida al usuario un número e imprima por pantalla la tabla de multiplicar de dicho número. 
+#.
 
 numero = int(input("Ingresa un número"))
 tabla0 = numero * 0
